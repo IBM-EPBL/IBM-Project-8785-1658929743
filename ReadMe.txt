@@ -3,8 +3,8 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
 <br>
     <div align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
-        <h2 align="center" style="margin-top:50px"> Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine Learning
-        <br><br>TeamID: PNT2022TMID00510</h2>
+        <h2 align="center" style="margin-top:50px"> MACHINE LEARNING - BASED PREDICTIVE ANALYTICS FOR AIRCRAFT ENGINE
+        <br><br>TeamID: PNT2022TMID00514</h2>
     </div>
 <br>
 
@@ -53,22 +53,22 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
 - Train The Model IBM
     - Register Login IBM Cloud
 - Assignments
-    -  [x] Team_Leader-Praabindh
+    -  [x] Team_Leader-Princy Jovita
         -  Assignment 1 <br>
         -  Assignment 2 <br>
         -  Assignment 3 <br>
         -  Assignment 4 <br>
-    -  [x] Team_Member-Naavendhan
+    -  [x] Team_Member-Nivetha
         -  Assignment 1 <br>
         -  Assignment 2 <br>
         -  Assignment 3 <br>
         -  Assignment 4 <br>
-    -  [x] Team_Member-Naveen
+    -  [x] Team_Member-Pavithramuki
         -  Assignment 1 <br>
         -  Assignment 2 <br>
         -  Assignment 3 <br>
         -  Assignment 4 <br>
-    -  [x] Team_Member-Nithish
+    -  [x] Team_Member-Nandhini
         -  Assignment 1 <br>
         -  Assignment 2 <br>
         -  Assignment 3 <br>
